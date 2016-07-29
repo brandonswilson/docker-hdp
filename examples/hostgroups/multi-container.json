@@ -1,4 +1,4 @@
-{ "blueprint":"multi-container",
+{ "blueprint":"BLUEPRINT_NAME",
 "default_password" : "dev",
 "configurations" : [
   {
